@@ -110,7 +110,7 @@ module.exports = class extends Generator {
       }
     };
 
-    return originUrl(this.destinationRoot)
+    return originUrl(this.destinationRoot())
       .then(url => {
         this.pkg.homepage = url;
       })
