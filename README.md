@@ -14,6 +14,7 @@ Then generate your new project:
 
 ```bash
 yo vue-next
+yo vue-next:pkg
 ```
 
 ## Getting To Know Yeoman

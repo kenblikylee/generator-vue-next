@@ -1,6 +1,6 @@
 {
   "name": "generator-vue-next",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "generator for vue-next like lib project.",
   "homepage": "https://github.com/kenblikylee/generator-vue-next",
   "author": {
